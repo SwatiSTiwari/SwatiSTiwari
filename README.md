@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/thisisswati" target="blank"><img src="https://img.shields.io/twitter/follow/thisisswati?logo=twitter&style=for-the-badge" alt="thisisswati" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, Python**
+- 🌱 I’m currently learning **Backend, Web3**
 
-- 💬 Ask me about **MySql, MongoDB, HTML, CSS, NodeJS, ExpressJS**
+- 💬 Ask me about **MySql, MongoDB, HTML, CSS, Javascript, NodeJS, ExpressJS**
 
 - 📫 How to reach me **swatistiwati13@gmail.com**
 

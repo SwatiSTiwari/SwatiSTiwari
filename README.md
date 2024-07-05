@@ -1,14 +1,14 @@
 <h1 align="center">Hi👋 , I'm Swati Tiwari</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatistiwari&label=Profile%20views&color=0e75b6&style=flat" alt="swatistiwari" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thisisswati" target="blank"><img src="https://img.shields.io/twitter/follow/thisisswati?logo=twitter&style=for-the-badge" alt="thisisswati" /></a> </p>
 
-- 🌱 I’m currently learning **Backend, Web3**
+- 🌱 I’m currently learning **NextJs, AuthJs, VueJs**
 
-- 💬 Ask me about **MySql, MongoDB, HTML, CSS, Javascript, NodeJS, ExpressJS**
+- 💬 Ask me about **MySql, MongoDB, HTML, CSS, Javascript, NodeJS, ExpressJS, NextJs**
 
 - 📫 How to reach me **swatistiwati13@gmail.com**
 
@@ -19,7 +19,6 @@
 <a href="https://twitter.com/thisisswati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisswati" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/swati-tiwari-a02b2a237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/swatistiwari13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swatistiwari13" height="30" width="40" /></a>
-<a href="https://discord.gg/Swati tiwari#0516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Swati tiwari#0516" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
